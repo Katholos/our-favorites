@@ -1,1 +1,2 @@
-pizza and chicken wings
+chicken wings [meat] [fried]
+pizza [junkfood]
