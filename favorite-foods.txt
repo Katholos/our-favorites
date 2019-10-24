@@ -1,3 +1,2 @@
-chicken wings [meat]
-pizza [junkfood]
-
+chicken wings [Meat]
+pizza [meat, vegetable, dairy]
